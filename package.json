@@ -1,0 +1,25 @@
+{
+  "name": "capricornio2.5",
+  "version": "1.0.0",
+  "description": "New Version CompraUmsa 2015\u001b[D\u001b[D\u001b[D\u001b[D11/2015",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taxxx/capricornio2.5.git"
+  },
+  "author": "Henrry Chuquimia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taxxx/capricornio2.5/issues"
+  },
+  "homepage": "https://github.com/Taxxx/capricornio2.5#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1"
+  }
+}
