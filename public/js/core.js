@@ -1,1 +1,1 @@
-angular.module('scotchCapricornio', ['mainModule']);
+angular.module('scotchCapricornio', ['mainModule','ui.bootstrap']);

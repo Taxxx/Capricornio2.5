@@ -4,4 +4,6 @@ angular.module('mainModule', [])
 		$scope.nombre = 'Henrry';
 	
 		
-	}]);
+	}])
+	
+	;
