@@ -1,9 +1,15 @@
-angular.module('mainModule', [])
+angular.module('mainModule', ['ui.bootstrap'])
 
-	.controller('mainController', ['$scope', function($scope) {
+	.controller('mainController', function($scope) {
 		$scope.nombre = 'Henrry';
 	
 		
-	}])
+	})
+
+	.controller('MyCtrl', function($scope) {
+		$scope.apellido = 'Chuquimia';
 	
+		
+	})
+
 	;
